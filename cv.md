@@ -6,7 +6,7 @@
 1. My goal is to complete a course from rs school and find a job in the near future.
 If I have a task, I usually complete it on time
 
-1. javascript
+1. **javascript**
 
 1. 
 ```javascript
