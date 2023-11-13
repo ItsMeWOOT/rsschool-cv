@@ -1,1 +1,1 @@
-# rsschool-cv
+https://ItsMeWOOT.github.io/rsschool-cv/
